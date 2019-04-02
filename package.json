@@ -1,0 +1,30 @@
+{
+  "name": "gridsome-source-magento2",
+  "version": "0.0.1",
+  "description": "Magento 2 source for Gridsome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/u12206050/gridsome-source-magento2.git"
+  },
+  "keywords": [
+    "gridsome",
+    "gridsome-plugin",
+    "gridsome-source",
+    "magento",
+    "magento2"
+  ],
+  "author": "Gerard Lamusse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/u12206050/gridsome-source-magento2/issues"
+  },
+  "homepage": "https://github.com/u12206050/gridsome-source-magento2#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "graphql-request": "^1.8.2"
+  }
+}
